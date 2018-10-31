@@ -696,6 +696,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### AWS Tools
 
+* CloudSploit | https://cloudsploit.com | Security & compliance monitoring - open source
 * Ylastic | http://ylastic.com/
 * Skeddly | http://www.skeddly.com/
 
